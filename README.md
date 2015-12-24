@@ -3,12 +3,12 @@ Collection of research articles, blog posts and code snippets about deep learnin
 
 # CNN
 
-Latest overview of CNNs can be found from the paper "Deep learning for visual understanding: A review" [paper](http://www.sciencedirect.com/science/article/pii/S0925231215017634)[PDF](articles/Deep learning for visual understanding A review.pdf)
+Latest overview of CNNs can be found from the paper "Deep learning for visual understanding: A review" [[paper]](http://www.sciencedirect.com/science/article/pii/S0925231215017634), [[PDF]](articles/Deep learning for visual understanding A review.pdf)
 
 ## ImageNet
 [ImageNet](http://www.image-net.org/) is the most important image classification and localization competition.
 
-!(images/imagenet-yearly-winners.png)
+![imagenet](images/imagenet-yearly-winners.png)
 
 ## Main network architectures
 
@@ -24,7 +24,7 @@ Original paper: *Deep Residual Learning for Image Recognition* [arxiv](http://ar
 
 ## Framework benchmarks
 
-* *Comparative Study of Caffe, Neon, Theano and Torch for deep learning*: [arxiv](http://arxiv.org/pdf/1511.06435v1.pdf)
+* **Comparative Study of Caffe, Neon, Theano and Torch for deep learning** [[arxiv]](http://arxiv.org/pdf/1511.06435v1.pdf)
 
 Their summary: From our experiments, we observe that Theano and Torch are the most easily extensible frameworks. We observe that Torch is best suited for any deep architecture on CPU, followed by Theano. It also achieves the best performance on the GPU for large convolutional and fully connected networks, followed closely by Neon. Theano achieves the best performance on GPU for training and deployment of LSTM networks. Finally Caffe is the easiest for evaluating the performance of standard deep architectures.
 
