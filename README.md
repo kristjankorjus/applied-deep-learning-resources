@@ -19,29 +19,39 @@ Prediction error of the ImageNet competition has been decreasing rapidly over th
 
 Original paper: *"ImageNet Classification with Deep Convolutional Neural Networks"* [[PDF](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)]
 
-Properties: 7 layers (5 convolutional and 2 fully connected), Rectified Linear Units (ReLUs),  Local Response Normalization, Dropout
+Properties: 8 weight layers (5 convolutional and 2 fully connected), 60 million parameters, Rectified Linear Units (ReLUs),  Local Response Normalization, Dropout
 
 ### VGG
 
-Original paper:
+Original paper: *"Very Deep Convolutional Networks for Large-Scale Image Recognition"* [[arxiv](http://arxiv.org/abs/1409.1556)]
 
-Properties: 
+Properties: 19 weight layers, 144m parameters, 3x3 convolution filters, L2 regularised, Dropout, No Local Response Normalization
 
 ### GoogLeNet
 
 Original paper: *"Going deeper with convolutions"* [[arxiv](http://arxiv.org/abs/1409.4842)]
 
-Properties: 22 layers, Inception modules, 1x1 conv layers, ReLUs, Dropout, Mid-level outputs
+Very nice slides: *"Deep Residual Learning"* [[PDF](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
+
+Properties: 22 layers, 7m parameters, Inception modules, 1x1 conv layers, ReLUs, Dropout, Mid-level outputs
+
+Inception modules:
+
+![googlenet](images/googlenet.png)
 
 ### ResNet
 
 Original paper: *"Deep Residual Learning for Image Recognition"* [[arxiv](http://arxiv.org/abs/1512.03385)]
 
-Properties: Batch Normalization (See *"Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"* [[arxiv](http://arxiv.org/abs/1502.03167)])
+Properties: 152 layers, ReLUs, Batch Normalization (See *"Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"* [[arxiv](http://arxiv.org/abs/1502.03167)]), less hacks (no dropout), more stable (different number of layers work as well) and lower complexity than VGG.
 
-Main building block of the best network:
+Main building block of the network:
 
 ![resnet](images/resnet.png)
+
+Features are also very good and transferable with faster R-CNNs (see below):
+
+![resnet-features](images/resnet-features.png)
 
 
 ### Other architectures
@@ -54,23 +64,15 @@ Main building block of the best network:
 
 * Lot's of different models in Caffe's *"Model Zoo"* [[github](https://github.com/BVLC/caffe/wiki/Model-Zoo)]
 
-## Framework benchmarks
-
-* *"Comparative Study of Caffe, Neon, Theano and Torch for deep learning"* [[arxiv](http://arxiv.org/pdf/1511.06435v1.pdf)]
-
-Their summary: From our experiments, we observe that Theano and Torch are the most easily extensible frameworks. We observe that Torch is best suited for any deep architecture on CPU, followed by Theano. It also achieves the best performance on the GPU for large convolutional and fully connected networks, followed closely by Neon. Theano achieves the best performance on GPU for training and deployment of LSTM networks. Finally Caffe is the easiest for evaluating the performance of standard deep architectures.
-
-* soumith/convnet-benchmarks: [[github](https://github.com/soumith/convnet-benchmarks)]
-
-* *"Deep Learning Libraries by Language"* [[link](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)]
-
-## Feature learning
+## Feature learning and Object detection
 
 * *"CNN Features off-the-shelf: an Astounding Baseline for Recognition"* [[arxiv](http://arxiv.org/abs/1403.6382)]
 
 * Faster and better features: *"Efficient Deep Feature Learning and Extraction via StochasticNets"* [[arxiv](http://arxiv.org/pdf/1512.03844.pdf)]
 
-## Object detection
+* First paper about R-CNN: *"Rich feature hierarchies for accurate object detection and semantic segmentation"* [[PDF](http://www.cs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf), [slides](https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_wk1_rcnn.pdf)]
+
+* *"Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"* [[arxiv](http://arxiv.org/abs/1506.01497), [github](https://github.com/ShaoqingRen/faster_rcnn)]
 
 * *"Object Detectors Emerge in Deep Scene CNNs"* [[PDF](http://people.csail.mit.edu/khosla/papers/cvpr2015_wu.pdf)]
 
@@ -132,11 +134,17 @@ Top selfies according to the ConvNet:
 
 * Word2vec: *"Efficient Estimation of Word Representations in Vector Space"* [[arxiv](http://arxiv.org/abs/1301.3781), [Google code](https://code.google.com/p/word2vec/)]
 
-# AI organisations
+# Framework benchmarks
 
-* [OpenAI](https://openai.com/)
+* *"Comparative Study of Caffe, Neon, Theano and Torch for deep learning"* [[arxiv](http://arxiv.org/pdf/1511.06435v1.pdf)]
 
-# Other lists
+Their summary: From our experiments, we observe that Theano and Torch are the most easily extensible frameworks. We observe that Torch is best suited for any deep architecture on CPU, followed by Theano. It also achieves the best performance on the GPU for large convolutional and fully connected networks, followed closely by Neon. Theano achieves the best performance on GPU for training and deployment of LSTM networks. Finally Caffe is the easiest for evaluating the performance of standard deep architectures.
+
+* soumith/convnet-benchmarks: [[github](https://github.com/soumith/convnet-benchmarks)]
+
+* *"Deep Learning Libraries by Language"* [[link](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)]
+
+# Other resources
 * *"An awesome list of (large-scale) public datasets on the Internet. (On-going collection)"* [[github](https://github.com/caesar0301/awesome-public-datasets)]
 
 * *"Model Zoo"* [[github](https://github.com/BVLC/caffe/wiki/Model-Zoo)]
