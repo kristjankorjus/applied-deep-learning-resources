@@ -70,7 +70,7 @@ Features are also very good and transferable with (faster) R-CNNs (see below):
 
 * First paper about R-CNN: *"Rich feature hierarchies for accurate object detection and semantic segmentation"* [[PDF](http://www.cs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf), [slides](https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_wk1_rcnn.pdf)]
 
-![fast-rcnn](fast-rcnn.png)
+![fast-rcnn](images/fast-rcnn.png)
 
 * *"Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"* [[arxiv](http://arxiv.org/abs/1506.01497), [github](https://github.com/ShaoqingRen/faster_rcnn)]
 
