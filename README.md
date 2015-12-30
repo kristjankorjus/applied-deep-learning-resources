@@ -8,7 +8,7 @@ Latest overview of the CNNs can be found from the paper *"Deep learning for visu
 Another decent overview in Nature by LeCun, Bengio and Hinton: *"Deep learning"* [[link](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html), [PDF](https://www.docdroid.net/11p1b/hinton.pdf.html)]
 
 ## ImageNet
-[ImageNet](http://www.image-net.org/) is the most important image classification and localization competition. Prediction error has been decreasing rapidly for the last 5 years:
+[ImageNet](http://www.image-net.org/) is the most important image classification and localization competition. Prediction error has been decreasing rapidly over the last 5 years:
 
 ![imagenet](images/imagenet-yearly-winners.png)
 
@@ -44,7 +44,7 @@ Properties:
 
 * Code and models for automatic captions of images by Karpathy [[github](https://github.com/karpathy/neuraltalk2)]
 
-* Code and a model: *"Free and open source face recognition with deep neural networks."* [[github](https://github.com/cmusatyalab/openface))]
+* Code and a model for faces: *"Free and open source face recognition with deep neural networks."* [[github](https://github.com/cmusatyalab/openface))]
 
 * *"Learning visual similarity for product design with convolutional neural networks"* [[PDF](http://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)]
 
