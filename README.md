@@ -39,6 +39,11 @@ Original paper: *"Deep Residual Learning for Image Recognition"* [[arxiv](http:/
 
 Properties: Batch Normalization (See *"Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"* [[arxiv](http://arxiv.org/abs/1502.03167)])
 
+Main building block of the best network:
+
+![resnet](images/resnet.png)
+
+
 ### Other architectures
 
 * Deep Learning for 3D shapes: *"3D ShapeNets: A Deep Representation for Volumetric Shapes"* [[PDF](http://people.csail.mit.edu/khosla/papers/cvpr2015_wu.pdf)]
@@ -73,7 +78,8 @@ Their summary: From our experiments, we observe that Theano and Torch are the mo
 
 * Google Deep Dream or neural networks on LSD: *"Inceptionism: Going Deeper into Neural Networks"* [[link](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html), [deepdreamer.io/](http://deepdreamer.io/)]
 
-From noise:
+Deep dreaming from noise:
+
 ![deepdream](images/dreams-from-noise.png)
 
 * Code and models for mixing arbitrary content and art style: *"A Neural Algorithm of Artistic Style"* [[arxiv](http://arxiv.org/abs/1508.06576), [deepart.io](http://deepart.io/), [a blog post](http://mlg.eng.cam.ac.uk/lloyd/blog-2015-09-01-neural-art.html), [github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)]
@@ -92,7 +98,13 @@ From noise:
 
 * *"How Google Translate squeezes deep learning onto a phone"* [[post](http://googleresearch.blogspot.co.uk/2015/07/how-google-translate-squeezes-deep.html)]
 
+![phone-nn](images/phone-nn.png)
+
 * *"What a Deep Neural Network thinks about your #selfie"* [[blog](http://karpathy.github.io/2015/10/25/selfie/)]
+
+top selfies according to the ConvNet:
+
+![topselfies](images/topselfies.png)
 
 * *"Recommending music on Spotify with deep learning"* [[github](http://benanne.github.io/2014/08/05/spotify-cnns.html)]
 
