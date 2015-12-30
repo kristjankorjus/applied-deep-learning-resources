@@ -110,15 +110,17 @@ Top selfies according to the ConvNet:
 
 # DQN
 
-My popular science article about DQN: *"Artificial General Intelligence that plays Atari video games: How did DeepMind do it?"* [[link](http://robohub.org/artificial-general-intelligence-that-plays-atari-video-games-how-did-deepmind-do-it/)]
+* Original paper: *"Playing Atari with Deep Reinforcement Learning"* [[arxiv](http://arxiv.org/abs/1312.5602)]
+
+* My popular science article about DQN: *"Artificial General Intelligence that plays Atari video games: How did DeepMind do it?"* [[link](http://robohub.org/artificial-general-intelligence-that-plays-atari-video-games-how-did-deepmind-do-it/)]
 
 * DQN for RoboCup: *"Deep Reinforcement Learning in Parameterized Action Space"* [[arxiv](http://arxiv.org/abs/1511.04143)]
 
 # RNN
 
-Very good tutorial-like introduction to RNNs by Andrej Karpathy: *"The Unreasonable Effectiveness of Recurrent Neural Networks"* [[link](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
+* Original paper of the best RNN architecture: *"Long short-term memory"* [[PDF](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf)]
 
-## Other
+* Very good tutorial-like introduction to RNNs by Andrej Karpathy: *"The Unreasonable Effectiveness of Recurrent Neural Networks"* [[link](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)]
 
 * *"Visualizing and Understanding Recurrent Networks"* [[arxiv](http://arxiv.org/abs/1506.02078)]
 
