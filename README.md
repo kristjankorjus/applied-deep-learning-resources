@@ -70,9 +70,10 @@ Features are also very good and transferable with (faster) R-CNNs (see below):
 
 * First paper about R-CNN: *"Rich feature hierarchies for accurate object detection and semantic segmentation"* [[PDF](http://www.cs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf), [slides](https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_wk1_rcnn.pdf)]
 
-![fast-rcnn](images/fast-rcnn.png)
 
 * *"Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"* [[arxiv](http://arxiv.org/abs/1506.01497), [github](https://github.com/ShaoqingRen/faster_rcnn)]
+
+![fast-rcnn](images/fast-rcnn.png)
 
 * Code and models for automatic captions of images: *"Deep Visual-Semantic Alignments for Generating Image Descriptions"* [[web poster](http://cs.stanford.edu/people/karpathy/deepimagesent/), [PDF](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf), [github](https://github.com/karpathy/neuraltalk2)]
 
