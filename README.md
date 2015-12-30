@@ -3,13 +3,14 @@ Collection of research articles, blog posts and code snippets about deep learnin
 
 # CNN
 
-Latest overview of the CNNs can be found from the paper *"Deep learning for visual understanding: A review"* [[paper](http://www.sciencedirect.com/science/article/pii/S0925231215017634), [PDF](articles/Deep learning for visual understanding A review.pdf)]
+Latest overview of the CNNs can be found from the paper *"Deep learning for visual understanding: A review"* [[link](http://www.sciencedirect.com/science/article/pii/S0925231215017634), [PDF](articles/Deep learning for visual understanding A review.pdf)]
 
 Another decent overview in Nature by LeCun, Bengio and Hinton: *"Deep learning"* [[link](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html), [PDF](https://www.docdroid.net/11p1b/hinton.pdf.html)]
 
 ## ImageNet
-[ImageNet](http://www.image-net.org/) is the most important image classification and localization competition. Other datasets with result can be found from here: *"Discover the current state of the art in objects classification. "* [[link](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)]. Prediction error of the ImageNet competition has been decreasing rapidly over the last 5 years:
+[ImageNet](http://www.image-net.org/) is the most important image classification and localization competition. Other data sets with results can be found from here: *"Discover the current state of the art in objects classification."* [[link](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)].
 
+Prediction error of the ImageNet competition has been decreasing rapidly over the last 5 years:
 ![imagenet](images/imagenet-yearly-winners.png)
 
 ## Main network architectures
@@ -42,9 +43,11 @@ Properties: Batch Normalization (See *"Batch Normalization: Accelerating Deep Ne
 
 * Deep Learning for 3D shapes: *"3D ShapeNets: A Deep Representation for Volumetric Shapes"* [[PDF](http://people.csail.mit.edu/khosla/papers/cvpr2015_wu.pdf)]
 
-* Code and a model for faces: *"Free and open source face recognition with deep neural networks."* [[github](https://github.com/cmusatyalab/openface))]
+* Code and a model for faces: *"Free and open source face recognition with deep neural networks."* [[github](https://github.com/cmusatyalab/openface)]
 
 * Fast neural networks which can perform arbitrary filters for images: *"Deep Edge-Aware Filters"* [[PDF](http://jmlr.org/proceedings/papers/v37/xub15.pdf)]
+
+* Lot's of different models in Caffe's *"Model Zoo"* [[github](https://github.com/BVLC/caffe/wiki/Model-Zoo)]
 
 ## Framework benchmarks
 
@@ -70,7 +73,7 @@ Their summary: From our experiments, we observe that Theano and Torch are the mo
 
 * Google Deep Dream or neural networks on LSD: *"Inceptionism: Going Deeper into Neural Networks"* [[link](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html), [deepdreamer.io/](http://deepdreamer.io/)]
 
-* Code and models for mixing arbitrary content and art style: *"A Neural Algorithm of Artistic Style"* [[arxiv](http://arxiv.org/abs/1508.06576), [deepart.io/](http://deepart.io/), [a blog post](http://mlg.eng.cam.ac.uk/lloyd/blog-2015-09-01-neural-art.html), [github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)]
+* Code and models for mixing arbitrary content and art style: *"A Neural Algorithm of Artistic Style"* [[arxiv](http://arxiv.org/abs/1508.06576), [deepart.io](http://deepart.io/), [a blog post](http://mlg.eng.cam.ac.uk/lloyd/blog-2015-09-01-neural-art.html), [github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)]
 
 * Code and models for automatic captions of images: *"Deep Visual-Semantic Alignments for Generating Image Descriptions"* [[web poster](http://cs.stanford.edu/people/karpathy/deepimagesent/), [PDF](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf), [github](https://github.com/karpathy/neuraltalk2)]
 
@@ -84,7 +87,7 @@ Their summary: From our experiments, we observe that Theano and Torch are the mo
 
 * *"What a Deep Neural Network thinks about your #selfie"* [[blog](http://karpathy.github.io/2015/10/25/selfie/)]
 
-* *"Recommending music on Spotify with deep learning"*[[github](http://benanne.github.io/2014/08/05/spotify-cnns.html)]
+* *"Recommending music on Spotify with deep learning"* [[github](http://benanne.github.io/2014/08/05/spotify-cnns.html)]
 
 # DQN
 
@@ -114,6 +117,8 @@ Very good tutorial-like introduction to RNNs by Andrej Karpathy: *"The Unreasona
 
 # Other lists
 * *"An awesome list of (large-scale) public datasets on the Internet. (On-going collection)"* [[github](https://github.com/caesar0301/awesome-public-datasets)]
+
+* *"Model Zoo"* [[github](https://github.com/BVLC/caffe/wiki/Model-Zoo)]
 
 * Videos from *"Deep Learning Summer School, Montreal 2015"*: [http://videolectures.net/deeplearning2015_montreal/](http://videolectures.net/deeplearning2015_montreal/)
 
