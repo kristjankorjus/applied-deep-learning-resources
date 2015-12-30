@@ -102,7 +102,7 @@ Deep dreaming from noise:
 
 * *"What a Deep Neural Network thinks about your #selfie"* [[blog](http://karpathy.github.io/2015/10/25/selfie/)]
 
-top selfies according to the ConvNet:
+Top selfies according to the ConvNet:
 
 ![topselfies](images/topselfies.png)
 
