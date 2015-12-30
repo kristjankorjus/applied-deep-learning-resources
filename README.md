@@ -79,7 +79,9 @@ Features are also very good and transferable with (faster) R-CNNs (see below):
 
 ![captions](images/captions.png)
 
-* *"Object Detectors Emerge in Deep Scene CNNs"* [[PDF](http://people.csail.mit.edu/khosla/papers/cvpr2015_wu.pdf)]
+* *"Object Detectors Emerge in Deep Scene CNNs"* [[arxiv](http://arxiv.org/abs/1412.6856)]
+
+![emergent-localisation](images/emergent-localisation.png)
 
 * Faster and better features: *"Efficient Deep Feature Learning and Extraction via StochasticNets"* [[arxiv](http://arxiv.org/pdf/1512.03844.pdf)]
 
