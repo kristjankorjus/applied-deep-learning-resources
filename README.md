@@ -1,5 +1,5 @@
 # applied-deep-learning-resources
-Collection of research articles, blog posts and code snippets about deep learning that can be useful in applied settings. Ideally ready made models and methods which can be used out of the box. Mainly focusing on CNNs and DQNs but RNNs and other interesting things will be present as well.
+A collection of research articles, blog posts and code snippets about deep learning in applied settings. Including trained models and simple methods that can be used out of the box. Mainly focusing on CNNs but DQNs, RNNs and other interesting architectures will also be listed.
 
 # CNN
 
@@ -31,8 +31,6 @@ Properties: 19 weight layers, 144m parameters, 3x3 convolution filters, L2 regul
 
 Original paper: *"Going deeper with convolutions"* [[arxiv](http://arxiv.org/abs/1409.4842)]
 
-Very nice slides: *"Deep Residual Learning"* [[PDF](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
-
 Properties: 22 layers, 7m parameters, Inception modules, 1x1 conv layers, ReLUs, Dropout, Mid-level outputs
 
 Inception modules:
@@ -42,6 +40,8 @@ Inception modules:
 ### ResNet
 
 Original paper: *"Deep Residual Learning for Image Recognition"* [[arxiv](http://arxiv.org/abs/1512.03385)]
+
+Very nice slides: *"Deep Residual Learning"* [[PDF](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
 
 Properties: 152 layers, ReLUs, Batch Normalization (See *"Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"* [[arxiv](http://arxiv.org/abs/1502.03167)]), less hacks (no dropout), more stable (different number of layers work as well) and lower complexity than VGG.
 
