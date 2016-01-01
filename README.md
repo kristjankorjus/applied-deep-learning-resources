@@ -160,4 +160,4 @@ Their summary: From our experiments, we observe that Theano and Torch are the mo
 
 # Credits
 
-Most of the snippets have come to my attention via internal mailing lists of [Computational Neuroscience Lab](neuro.cs.ut.ee) at University of Tartu and London-based visual search company [Dream It Get It](dreamitget.it). I am also reading a weekly newsletter by [Data Elixir](http://dataelixir.com/) and checking research papers of two main deep learning conferences: [ICML](http://icml.cc/) and [NIPS](https://nips.cc/).
+Most of the snippets have come to my attention via internal mailing lists of [Computational Neuroscience Lab](neuro.cs.ut.ee) at University of Tartu and London-based visual search company [Dream It Get It](dreamitget.it). I am also reading a weekly newsletter by [Data Elixir](http://dataelixir.com/) and checking research papers of the two main deep learning conferences: [ICML](http://icml.cc/) and [NIPS](https://nips.cc/).
