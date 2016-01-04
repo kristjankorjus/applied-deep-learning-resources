@@ -139,6 +139,8 @@ Top selfies according to the ConvNet:
 
 * Word2vec: *"Efficient Estimation of Word Representations in Vector Space"* [[arxiv](http://arxiv.org/abs/1301.3781), [Google code](https://code.google.com/p/word2vec/)]
 
+* *"Feedforward Sequential Memory Networks: A New Structure to Learn Long-term Dependency"* [[arxiv](http://arxiv.org/abs/1512.08301)]
+
 # Framework benchmarks
 
 * *"Comparative Study of Caffe, Neon, Theano and Torch for deep learning"* [[arxiv](http://arxiv.org/pdf/1511.06435v1.pdf)]
