@@ -145,7 +145,9 @@ Top selfies according to the ConvNet:
 
 Their summary: From our experiments, we observe that Theano and Torch are the most easily extensible frameworks. We observe that Torch is best suited for any deep architecture on CPU, followed by Theano. It also achieves the best performance on the GPU for large convolutional and fully connected networks, followed closely by Neon. Theano achieves the best performance on GPU for training and deployment of LSTM networks. Finally Caffe is the easiest for evaluating the performance of standard deep architectures.
 
-* soumith/convnet-benchmarks: [[github](https://github.com/soumith/convnet-benchmarks)]
+* Very good qualitative analysis: zer0n/deepframeworks: [[github](https://github.com/zer0n/deepframeworks)]
+
+* Just performance comparison: soumith/convnet-benchmarks: [[github](https://github.com/soumith/convnet-benchmarks)]
 
 * *"Deep Learning Libraries by Language"* [[link](http://www.teglor.com/b/deep-learning-libraries-language-cm569/)]
 
