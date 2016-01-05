@@ -105,7 +105,7 @@ Deep dreaming from noise:
 
 * Classifying street signs: *"The power of Spatial Transformer Networks"* [[blog](http://torch.ch/blog/2015/09/07/spatial_transformers.html)] with *"Spatial Transformer Networks"* [[arxiv](http://arxiv.org/abs/1506.02025)]
 
-![spatial-nn](spatial-nn.png)
+![spatial-nn](images/spatial-nn.png)
 
 * *"How Google Translate squeezes deep learning onto a phone"* [[post](http://googleresearch.blogspot.co.uk/2015/07/how-google-translate-squeezes-deep.html)]
 
@@ -120,6 +120,8 @@ Top selfies according to the ConvNet:
 * *"Recommending music on Spotify with deep learning"* [[github](http://benanne.github.io/2014/08/05/spotify-cnns.html)]
 
 * *"DeepStereo: Learning to Predict New Views from the World's Imagery"* [[arxiv](http://arxiv.org/abs/1506.06825)]
+
+![deepstereo](images/deepstereo.png)
 
 # DQN
 
