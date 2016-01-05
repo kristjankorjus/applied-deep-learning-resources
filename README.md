@@ -1,5 +1,5 @@
 # applied-deep-learning-resources
-A collection of research articles, blog posts and code snippets about deep learning in applied settings. Including trained models and simple methods that can be used out of the box. Mainly focusing on CNNs but DQNs, RNNs and other interesting architectures will also be listed.
+A collection of research articles, blog posts and code snippets about deep learning in applied settings. Including trained models and simple methods that can be used out of the box. Mainly focusing on Convolutional Neural Networks (CNN) but Recurrent Neural Networks (RNN), deep Q-Networks (DQN) and other interesting architectures will also be listed.
 
 # CNN
 
@@ -101,7 +101,11 @@ Deep dreaming from noise:
 
 ![products](images/similar-products.png)
 
-* Using images and image descriptions to improve search results: "*Images Don’t Lie: Transferring Deep Visual Semantic Features to Large-Scale Multimodal Learning to Rank*" [[arxiv](http://arxiv.org/abs/1511.06746)]
+* Using images and image descriptions to improve search results: *"Images Don’t Lie: Transferring Deep Visual Semantic Features to Large-Scale Multimodal Learning to Rank"* [[arxiv](http://arxiv.org/abs/1511.06746)]
+
+* Classifying street signs: *"The power of Spatial Transformer Networks"* [[blog](http://torch.ch/blog/2015/09/07/spatial_transformers.html)] with *"Spatial Transformer Networks"* [[arxiv](http://arxiv.org/abs/1506.02025)]
+
+![spatial-nn](spatial-nn.png)
 
 * *"How Google Translate squeezes deep learning onto a phone"* [[post](http://googleresearch.blogspot.co.uk/2015/07/how-google-translate-squeezes-deep.html)]
 
