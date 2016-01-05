@@ -119,6 +119,8 @@ Top selfies according to the ConvNet:
 
 * *"Recommending music on Spotify with deep learning"* [[github](http://benanne.github.io/2014/08/05/spotify-cnns.html)]
 
+* *"DeepStereo: Learning to Predict New Views from the World's Imagery"* [[arxiv](http://arxiv.org/abs/1506.06825)]
+
 # DQN
 
 * Original paper: *"Playing Atari with Deep Reinforcement Learning"* [[arxiv](http://arxiv.org/abs/1312.5602)]
