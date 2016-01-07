@@ -75,6 +75,8 @@ Features are also very good and transferable with (faster) R-CNNs (see below):
 
 ![fast-rcnn](images/fast-rcnn.png)
 
+* *"Convolutional Feature Maps: Elements of efficient (and accurate) CNN-based object detection"*: [[Slides](http://research.microsoft.com/en-us/um/people/kahe/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf)]
+
 * Code and models for automatic captions of images: *"Deep Visual-Semantic Alignments for Generating Image Descriptions"* [[web poster](http://cs.stanford.edu/people/karpathy/deepimagesent/), [PDF](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf), [github](https://github.com/karpathy/neuraltalk2)]
 
 ![captions](images/captions.png)
