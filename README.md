@@ -123,6 +123,8 @@ Top selfies according to the ConvNet:
 
 ![deepstereo](images/deepstereo.png)
 
+* *"Pedestrian Detection with RCNN"* [[PDF](http://cs229.stanford.edu/proj2015/172_report.pdf)]
+
 # DQN
 
 * Original paper: *"Playing Atari with Deep Reinforcement Learning"* [[arxiv](http://arxiv.org/abs/1312.5602)]
