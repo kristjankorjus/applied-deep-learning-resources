@@ -21,6 +21,8 @@ Original paper: *"ImageNet Classification with Deep Convolutional Neural Network
 
 Properties: 8 weight layers (5 convolutional and 2 fully connected), 60 million parameters, Rectified Linear Units (ReLUs),  Local Response Normalization, Dropout
 
+![alexnet](images/alexnet.png)
+
 ### VGG
 
 Original paper: *"Very Deep Convolutional Networks for Large-Scale Image Recognition"* [[arxiv](http://arxiv.org/abs/1409.1556)]
