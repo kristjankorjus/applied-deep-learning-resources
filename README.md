@@ -33,7 +33,7 @@ Properties: 19 weight layers, 144m parameters, 3x3 convolution filters, L2 regul
 
 Original paper: *"Going deeper with convolutions"* [[arxiv](http://arxiv.org/abs/1409.4842)]
 
-Lates upgrade to the model achieves even better scores: *"Rethinking the Inception Architecture for Computer Vision"* [[arxiv](http://arxiv.org/abs/1512.00567)]
+Lates upgrade to the model achieves even better scores with models and import to Torch: *"Rethinking the Inception Architecture for Computer Vision"* [[arxiv](http://arxiv.org/abs/1512.00567)], *"Torch port of Inception V3"* [[github](https://github.com/Moodstocks/inception-v3.torch)]
 
 Properties: 22 layers, 7m parameters, Inception modules, 1x1 conv layers, ReLUs, Dropout, Mid-level outputs
 
