@@ -1,5 +1,5 @@
-# applied-deep-learning-resources
-A collection of research articles, blog posts and code snippets about deep learning in applied settings. Including trained models and simple methods that can be used out of the box. Mainly focusing on Convolutional Neural Networks (CNN) but Recurrent Neural Networks (RNN), deep Q-Networks (DQN) and other interesting architectures will also be listed.
+# Applied Deep Learning Resources
+A collection of research articles, blog posts, slides and code snippets about deep learning in applied settings. Including trained models and simple methods that can be used out of the box. Mainly focusing on Convolutional Neural Networks (CNN) but Recurrent Neural Networks (RNN), deep Q-Networks (DQN) and other interesting architectures will also be listed.
 
 # CNN
 
