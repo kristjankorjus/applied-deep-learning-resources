@@ -64,22 +64,15 @@ Features are also very good and transferable with (faster) R-CNNs (see below):
 
 * Lot's of different models in Caffe's *"Model Zoo"* [[github](https://github.com/BVLC/caffe/wiki/Model-Zoo)]
 
-## Feature learning, object detection, captions
+## Feature learning and object detection
 
 * *"CNN Features off-the-shelf: an Astounding Baseline for Recognition"* [[arxiv](http://arxiv.org/abs/1403.6382)]
 
 * First paper about R-CNN: *"Rich feature hierarchies for accurate object detection and semantic segmentation"* [[PDF](http://www.cs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf), [slides](https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_wk1_rcnn.pdf)]
 
-
-* *"Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"* [[arxiv](http://arxiv.org/abs/1506.01497), [github](https://github.com/ShaoqingRen/faster_rcnn)]
+* *"Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"* [[arxiv](http://arxiv.org/abs/1506.01497), [github](https://github.com/ShaoqingRen/faster_rcnn), [Slides](http://research.microsoft.com/en-us/um/people/kahe/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf)]
 
 ![fast-rcnn](images/fast-rcnn.png)
-
-* *"Convolutional Feature Maps: Elements of efficient (and accurate) CNN-based object detection"*: [[Slides](http://research.microsoft.com/en-us/um/people/kahe/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf)]
-
-* Code and models for automatic captions of images: *"Deep Visual-Semantic Alignments for Generating Image Descriptions"* [[web poster](http://cs.stanford.edu/people/karpathy/deepimagesent/), [PDF](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf), [github](https://github.com/karpathy/neuraltalk2)]
-
-![captions](images/captions.png)
 
 * *"Object Detectors Emerge in Deep Scene CNNs"* [[arxiv](http://arxiv.org/abs/1412.6856)]
 
@@ -87,7 +80,11 @@ Features are also very good and transferable with (faster) R-CNNs (see below):
 
 * Faster and better features: *"Efficient Deep Feature Learning and Extraction via StochasticNets"* [[arxiv](http://arxiv.org/pdf/1512.03844.pdf)]
 
-## Other 
+## Other
+
+* Code and models for automatic captions of images: *"Deep Visual-Semantic Alignments for Generating Image Descriptions"* [[web poster](http://cs.stanford.edu/people/karpathy/deepimagesent/), [PDF](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf), [github](https://github.com/karpathy/neuraltalk2)]
+
+![captions](images/captions.png)
 
 * Google Deep Dream or neural networks on LSD: *"Inceptionism: Going Deeper into Neural Networks"* [[link](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html), [deepdreamer.io/](http://deepdreamer.io/)]
 
@@ -105,10 +102,6 @@ Deep dreaming from noise:
 
 * Using images and image descriptions to improve search results: *"Images Don’t Lie: Transferring Deep Visual Semantic Features to Large-Scale Multimodal Learning to Rank"* [[arxiv](http://arxiv.org/abs/1511.06746)]
 
-* Classifying street signs: *"The power of Spatial Transformer Networks"* [[blog](http://torch.ch/blog/2015/09/07/spatial_transformers.html)] with *"Spatial Transformer Networks"* [[arxiv](http://arxiv.org/abs/1506.02025)]
-
-![spatial-nn](images/spatial-nn.png)
-
 * *"How Google Translate squeezes deep learning onto a phone"* [[post](http://googleresearch.blogspot.co.uk/2015/07/how-google-translate-squeezes-deep.html)]
 
 ![phone-nn](images/phone-nn.png)
@@ -124,6 +117,10 @@ Top selfies according to the ConvNet:
 * *"DeepStereo: Learning to Predict New Views from the World's Imagery"* [[arxiv](http://arxiv.org/abs/1506.06825)]
 
 ![deepstereo](images/deepstereo.png)
+
+* Classifying street signs: *"The power of Spatial Transformer Networks"* [[blog](http://torch.ch/blog/2015/09/07/spatial_transformers.html)] with *"Spatial Transformer Networks"* [[arxiv](http://arxiv.org/abs/1506.02025)]
+
+![spatial-nn](images/spatial-nn.png)
 
 * *"Pedestrian Detection with RCNN"* [[PDF](http://cs229.stanford.edu/proj2015/172_report.pdf)]
 
