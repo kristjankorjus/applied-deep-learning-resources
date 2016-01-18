@@ -100,6 +100,10 @@ Deep dreaming from noise:
 
 ![nnstyle](images/nn-style.png)
 
+* *"Automatic Colorization"* and it includes pre-trained model [[Link](http://tinyclouds.org/colorize/)]
+
+![color](images/color.png)
+
 * *"Learning visual similarity for product design with convolutional neural networks"* [[PDF](http://www.cs.cornell.edu/~kb/publications/SIG15ProductNet.pdf)]
 
 ![products](images/similar-products.png)
