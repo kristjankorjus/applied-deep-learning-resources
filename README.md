@@ -100,7 +100,7 @@ Deep dreaming from noise:
 
 ![nnstyle](images/nn-style.png)
 
-* *"Automatic Colorization"* and it includes pre-trained model [[Link](http://tinyclouds.org/colorize/)]
+* *"Automatic Colorization"* and it includes a pre-trained model [[Link](http://tinyclouds.org/colorize/)]
 
 ![color](images/color.png)
 
