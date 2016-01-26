@@ -78,7 +78,7 @@ Features are also very good and transferable with (faster) R-CNNs (see below):
 
 ![fast-rcnn](images/fast-rcnn.png)
 
-* *"An Empirical Evaluation of Deep Learning on Highway Driving"* [arxiv](http://arxiv.org/abs/1504.01716)
+* *"An Empirical Evaluation of Deep Learning on Highway Driving"* [[arxiv](http://arxiv.org/abs/1504.01716)]
 
 ![emp](images/emp.png)
 
