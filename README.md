@@ -13,7 +13,7 @@ Another decent overview in Nature by LeCun, Bengio and Hinton: *"Deep learning"*
 Prediction error of the ImageNet competition has been decreasing rapidly over the last 5 years:
 ![imagenet](images/imagenet-yearly-winners.png)
 
-## Main network architectures
+## Main network architectures on ImageNet
 
 ### AlexNet
 
@@ -77,6 +77,10 @@ Features are also very good and transferable with (faster) R-CNNs (see below):
 * *"Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"* [[arxiv](http://arxiv.org/abs/1506.01497), [github](https://github.com/ShaoqingRen/faster_rcnn), [Slides](http://research.microsoft.com/en-us/um/people/kahe/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf)]
 
 ![fast-rcnn](images/fast-rcnn.png)
+
+* *"An Empirical Evaluation of Deep Learning on Highway Driving"* [arxiv](http://arxiv.org/abs/1504.01716)
+
+![emp](images/emp.png)
 
 * *"Object Detectors Emerge in Deep Scene CNNs"* [[arxiv](http://arxiv.org/abs/1412.6856)]
 
