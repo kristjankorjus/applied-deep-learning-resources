@@ -10,8 +10,10 @@ Another decent overview in Nature by LeCun, Bengio and Hinton: *"Deep learning"*
 ## ImageNet
 [ImageNet](http://www.image-net.org/) is the most important image classification and localization competition. Other data sets with results can be found from here: *"Discover the current state of the art in objects classification."* [[link](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)].
 
+![imagenet-sample](images/imagenet.png)
+
 Prediction error of the ImageNet competition has been decreasing rapidly over the last 5 years:
-![imagenet](images/imagenet-yearly-winners.png)
+![imagenet-error](images/imagenet-yearly-winners.png)
 
 ## Main network architectures on ImageNet
 
