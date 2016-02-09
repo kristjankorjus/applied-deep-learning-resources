@@ -49,6 +49,8 @@ Original paper: *"Deep Residual Learning for Image Recognition"* [[arxiv](http:/
 
 Very nice slides: *"Deep Residual Learning"* [[PDF](http://research.microsoft.com/en-us/um/people/kahe/ilsvrc15/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
 
+Github: [[github](https://github.com/KaimingHe/deep-residual-networks)]
+
 Properties: 152 layers, ReLUs, Batch Normalization (See *"Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"* [[arxiv](http://arxiv.org/abs/1502.03167)]), less hacks (no dropout), more stable (different number of layers work as well) and lower complexity than VGG.
 
 Main building block of the network:
