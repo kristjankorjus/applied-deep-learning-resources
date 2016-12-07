@@ -148,6 +148,8 @@ Top selfies according to the ConvNet:
 
 * *"Recommending music on Spotify with deep learning"* [[github](http://benanne.github.io/2014/08/05/spotify-cnns.html)]
 
+* *"Lip Reading Sentences in the Wild"* [[arxiv](https://arxiv.org/pdf/1611.05358v1.pdf)]
+
 * *"DeepStereo: Learning to Predict New Views from the World's Imagery"* [[arxiv](http://arxiv.org/abs/1506.06825)]
 
 ![deepstereo](images/deepstereo.png)
