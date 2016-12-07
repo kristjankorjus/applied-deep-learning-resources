@@ -94,14 +94,6 @@ A deep DenseNet with three dense blocks:
 
 ![fast-rcnn](images/fast-rcnn.png)
 
-* *"An Empirical Evaluation of Deep Learning on Highway Driving"* [[arxiv](http://arxiv.org/abs/1504.01716)]
-
-![emp](images/emp.png)
-
-* *"Object Detectors Emerge in Deep Scene CNNs"* [[arxiv](http://arxiv.org/abs/1412.6856)]
-
-![emergent-localisation](images/emergent-localisation.png)
-
 * Faster and better features: *"Efficient Deep Feature Learning and Extraction via StochasticNets"* [[arxiv](http://arxiv.org/pdf/1512.03844.pdf)]
 
 ## Other
@@ -149,6 +141,14 @@ Top selfies according to the ConvNet:
 * *"Recommending music on Spotify with deep learning"* [[github](http://benanne.github.io/2014/08/05/spotify-cnns.html)]
 
 * *"Lip Reading Sentences in the Wild"* [[arxiv](https://arxiv.org/pdf/1611.05358v1.pdf)]
+
+* *"An Empirical Evaluation of Deep Learning on Highway Driving"* [[arxiv](http://arxiv.org/abs/1504.01716)]
+
+![emp](images/emp.png)
+
+* *"Object Detectors Emerge in Deep Scene CNNs"* [[arxiv](http://arxiv.org/abs/1412.6856)]
+
+![emergent-localisation](images/emergent-localisation.png)
 
 * *"DeepStereo: Learning to Predict New Views from the World's Imagery"* [[arxiv](http://arxiv.org/abs/1506.06825)]
 
