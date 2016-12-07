@@ -110,6 +110,8 @@ A deep DenseNet with three dense blocks:
 
 ![captions](images/captions.png)
 
+Also, a better version now open source by Google: *"Show and Tell: image captioning open sourced in TensorFlow"* [[link](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html)]
+
 * Google Deep Dream or neural networks on LSD: *"Inceptionism: Going Deeper into Neural Networks"* [[link](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html), [deepdreamer.io/](http://deepdreamer.io/)]
 
 Deep dreaming from noise:
