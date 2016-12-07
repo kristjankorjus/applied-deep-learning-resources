@@ -120,7 +120,7 @@ Deep dreaming from noise:
 
 ![nnstyle](images/nn-style.png)
 
-* General image to image conversion (pix2pix): *""* [[arxiv](https://arxiv.org/pdf/1611.07004v1.pdf), [github](https://github.com/phillipi/pix2pix)]
+* General image to image conversion (pix2pix): *"Image-to-Image Translation with Conditional Adversarial Nets"* [[arxiv](https://arxiv.org/pdf/1611.07004v1.pdf), [github](https://github.com/phillipi/pix2pix)]
 
 ![pix2pix](images/pix2pix.png)
 
