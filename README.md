@@ -61,6 +61,18 @@ Features are also very good and transferable with (faster) R-CNNs (see below):
 
 ![resnet-features](images/resnet-features.png)
 
+### DenseNets
+Original paper: *"Densely Connected Convolutional Networks"* [[arxiv](http://arxiv.org/abs/1608.06993), [github](https://github.com/liuzhuang13/DenseNet)]
+
+Properties: similar performance to ResNet on ImageNet dataset but two times smaller model complexity with even easier training.
+
+A dense block with 5 layers and growth rate 4:
+
+![denseblock](images/denseblock.jpg)
+
+A deep DenseNet with three dense blocks:
+
+![densenet](images/densenet.jpg)
 
 ### Other architectures
 
