@@ -61,7 +61,7 @@ Features are also very good and transferable with (faster) R-CNNs (see below):
 
 ![resnet-features](images/resnet-features.png)
 
-### DenseNets
+### DenseNet
 Original paper: *"Densely Connected Convolutional Networks"* [[arxiv](http://arxiv.org/abs/1608.06993), [github](https://github.com/liuzhuang13/DenseNet)]
 
 Properties: similar performance to ResNet on ImageNet dataset but two times smaller model complexity with even easier training.
@@ -119,6 +119,10 @@ Deep dreaming from noise:
 * Code and models for mixing arbitrary content and art style: *"A Neural Algorithm of Artistic Style"* [[arxiv](http://arxiv.org/abs/1508.06576), [deepart.io](http://deepart.io/), [a blog post](http://mlg.eng.cam.ac.uk/lloyd/blog-2015-09-01-neural-art.html), [github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)]
 
 ![nnstyle](images/nn-style.png)
+
+* General image to image conversion (pix2pix): *""* [[arxiv](https://arxiv.org/pdf/1611.07004v1.pdf), [github](https://github.com/phillipi/pix2pix)]
+
+![pix2pix](images/pix2pix.png)
 
 * *"Automatic Colorization"* and it includes a pre-trained model [[Link](http://tinyclouds.org/colorize/)]
 
